@@ -1,0 +1,29 @@
+{
+  "name": "edukeoficial",
+  "version": "1.0.0",
+  "description": "O melhor lugar para estudar.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorCX2/EdukeOficial.git"
+  },
+  "keywords": [],
+  "author": "Igor Cortez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorCX2/EdukeOficial/issues"
+  },
+  "homepage": "https://github.com/IgorCX2/EdukeOficial#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "eslint-config-next": "^13.0.4",
+    "next": "^13.0.4",
+    "postcss": "^8.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.2.4"
+  }
+}
